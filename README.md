@@ -1,4 +1,4 @@
-# Miscellaneous
+
 ## Solidity
 ### BunzContract
 
